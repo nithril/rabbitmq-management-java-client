@@ -3,7 +3,7 @@ rabbitmq-management-java-client
 
 A Java client for RabbitMQ Management API. 
 
-The purpose of this project is more too share code (fork and adapt to your need) than a project with solid support. Anyway I will give a look at your issues.
+The purpose of this project is more to share code (fork and adapt to your need) than a project with solid support. Anyway I will give a look at your issues.
 
 Implemented endpoints are listed here [```RabbitManagementApi```](https://github.com/nithril/rabbitmq-management-java-client/blob/master/src/main/java/org/nigajuan/rabbit/management/client/RabbitManagementApi.java). Not all endpoints are implemented.
 
