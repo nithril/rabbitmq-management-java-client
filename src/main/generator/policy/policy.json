@@ -1,0 +1,12 @@
+{"vhost": "/", "name": "dd", "pattern": ".*", "apply-to": "all", "definition": {
+    "ha-mode": "exactly",
+    "dead-letter-routing-key": "eeee",
+    "alternate-exchange": "eee",
+    "ha-params": 5,
+    "ha-sync-mode": "manual",
+    "message-ttl": 10,
+    "expires": 1000,
+    "max-length": 100,
+    "max-length-bytes": 100,
+    "dead-letter-exchange": "eeee"
+}, "priority": 10}

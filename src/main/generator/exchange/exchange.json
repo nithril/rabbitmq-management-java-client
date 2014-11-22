@@ -1,0 +1,23 @@
+    {
+        "message_stats": {
+            "confirm": 1115,
+            "confirm_details": {
+                "rate": 0.0
+            },
+            "publish_in": 1172,
+            "publish_in_details": {
+                "rate": 0.0
+            },
+            "publish_out": 1172,
+            "publish_out_details": {
+                "rate": 0.0
+            }
+        },
+        "name": "",
+        "vhost": "bench",
+        "type": "direct",
+        "durable": true,
+        "auto_delete": false,
+        "internal": false,
+        "arguments": {}
+    }

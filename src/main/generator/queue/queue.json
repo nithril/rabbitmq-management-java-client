@@ -1,0 +1,44 @@
+    {
+        "memory": 10648,
+        "messages": 0,
+        "messages_details": {
+            "rate": 0.0
+        },
+        "messages_ready": 0,
+        "messages_ready_details": {
+            "rate": 0.0
+        },
+        "messages_unacknowledged": 0,
+        "messages_unacknowledged_details": {
+            "rate": 0.0
+        },
+        "idle_since": "2014-11-19 6:41:12",
+        "consumer_utilisation": "",
+        "policy": "",
+        "exclusive_consumer_tag": "",
+        "consumers": 0,
+        "down_slave_nodes": "",
+        "state": "running",
+        "messages_ram": 0,
+        "messages_ready_ram": 0,
+        "messages_unacknowledged_ram": 0,
+        "messages_persistent": 0,
+        "message_bytes": 0,
+        "message_bytes_ready": 0,
+        "message_bytes_unacknowledged": 0,
+        "message_bytes_ram": 0,
+        "message_bytes_persistent": 0,
+        "name": "azert",
+        "vhost": "bench",
+        "durable": true,
+        "auto_delete": false,
+        "arguments": {
+            "x-message-ttl": 10000000000,
+            "x-expires": 100000000000,
+            "x-max-length": 100,
+            "x-max-length-bytes": 10000,
+            "x-dead-letter-exchange": "dd",
+            "x-dead-letter-routing-key": "dddd"
+        },
+        "node": ""
+    }
